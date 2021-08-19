@@ -1,0 +1,9 @@
+---
+
+title: pentest-book
+theme: jekyll-theme-hacker
+markdown: kramdown
+highlighter: rouge
+tipue_search:
+  include:
+    pages: true
